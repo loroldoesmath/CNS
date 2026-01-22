@@ -1,2 +1,2 @@
 # CNS
-My repo for all my computational neuroscience tasks.
+Repo for all my assorted computational neuroscience tasks. Plan on this being relatively disorganized for the forseeable future. 
