@@ -3,8 +3,7 @@ from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 
 # ===== Parameters =====
-Cm = 1.0
-
+Cm = 10
 gNa = 120.0
 gK  = 36.0
 gL  = 0.3
