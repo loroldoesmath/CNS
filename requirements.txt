@@ -7,3 +7,4 @@ jupyter
 ipython
 mne
 pyedflib
+# os
